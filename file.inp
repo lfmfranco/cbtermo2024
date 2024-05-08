@@ -1,0 +1,12 @@
+#particles       = 1000
+temperature(K)   = 300.0
+density(kg/m3)   = 100.0
+molar_mass(g/mol)= 16.0427
+epsilon(K)       = 148.0
+sigma(A)         = 3.73
+rcut(A)          = 14.0
+time_step(fs)    = 2.0
+max_steps        = 20000
+n_save           = 10
+n_equil          = 10000
+max_bin          = 1000
