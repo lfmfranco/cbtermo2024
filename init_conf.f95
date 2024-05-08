@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Code to generate an initial configuration of spherical particles    !
-! in a FCC lattice with initial velocities distributed according to   !
+! in a cubic lattice with initial velocities distributed according to !
 ! Maxwell-Boltzmann                                                   !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! University of Campinas                                              !
